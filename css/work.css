@@ -86,7 +86,7 @@
 	text-align: center;
 	position: relative;
 	opacity: 0;
-	border:44px solid #2b2b2b;
+	border:44px solid #000;
 	border-radius: 26px;
 	box-sizing:border-box;
 }
